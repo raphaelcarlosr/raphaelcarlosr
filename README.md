@@ -2,17 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelcarlosr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="151" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelcarlosr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/7m0bb3.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20" width="38" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="20" width="38" alt="amazonwebservices logo"  />
@@ -39,6 +28,17 @@
   <a href="https://go.raphaelcarlosr.dev/dev-to" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="devto logo"  />
   </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/7m0bb3.gif"  />
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelcarlosr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="151" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelcarlosr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
